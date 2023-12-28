@@ -5,14 +5,14 @@
       "title": "Nike Ayakkabı",
       "sale": false,
       "description": "Ayakkabı açıklaması",
-      "price": "3.250₺"
+      "price": 3250
     },
     {
       "id": 1,
       "title": "Adidas Ayakkabı",
       "sale": false,
       "description": "Ayakkabı açıklaması",
-      "price": "5.250₺"
+      "price": 5900
     }
   ]
 }
